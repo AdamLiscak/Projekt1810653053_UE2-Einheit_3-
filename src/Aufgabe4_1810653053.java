@@ -25,7 +25,7 @@ public class Aufgabe4_1810653053 {
             for (i=1;11 > i;i++)
             System.out.println("Der Schleifenzähler ist:" + (i));
         }
-        else
+        if(w>3)
         {
             System.out.println("ungültige Eingabe - Abbruch des Programms");
         }
